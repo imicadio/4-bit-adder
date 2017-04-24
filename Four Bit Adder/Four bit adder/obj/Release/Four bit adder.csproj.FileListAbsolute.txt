@@ -1,0 +1,13 @@
+F:\C#\Four Bit Adder\Four bit adder\bin\Release\Four bit adder.exe.config
+F:\C#\Four Bit Adder\Four bit adder\bin\Release\Four bit adder.exe
+F:\C#\Four Bit Adder\Four bit adder\bin\Release\Four bit adder.pdb
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\MainWindow.g.cs
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\App.g.cs
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\Four bit adder_MarkupCompile.cache
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\Four bit adder_MarkupCompile.lref
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\MainWindow.baml
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\Four bit adder.g.resources
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\Four_bit_adder.Properties.Resources.resources
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\Four bit adder.csproj.GenerateResource.Cache
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\Four bit adder.exe
+F:\C#\Four Bit Adder\Four bit adder\obj\Release\Four bit adder.pdb

@@ -1,0 +1,28 @@
+F:\C#\Four Bit Adder\Four bit adder\bin\Debug\Four bit adder.exe.config
+F:\C#\Four Bit Adder\Four bit adder\bin\Debug\Four bit adder.exe
+F:\C#\Four Bit Adder\Four bit adder\bin\Debug\Four bit adder.pdb
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.csprojResolveAssemblyReference.cache
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\MainWindow.g.cs
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\App.g.cs
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder_MarkupCompile.cache
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder_MarkupCompile.lref
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\MainWindow.baml
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.g.resources
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\Four_bit_adder.Properties.Resources.resources
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.csproj.GenerateResource.Cache
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.exe
+F:\C#\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.pdb
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\bin\Debug\Four bit adder.exe.config
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.exe
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.pdb
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\bin\Debug\Four bit adder.exe
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\bin\Debug\Four bit adder.pdb
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.csprojResolveAssemblyReference.cache
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\MainWindow.g.cs
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\App.g.cs
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder_MarkupCompile.cache
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder_MarkupCompile.lref
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\MainWindow.baml
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.g.resources
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\Four_bit_adder.Properties.Resources.resources
+G:\4-Bit Adder\Four Bit Adder\Four bit adder\obj\Debug\Four bit adder.csproj.GenerateResource.Cache
